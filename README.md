@@ -4,10 +4,10 @@ About Me
 I am a Front-End Developer with a passion for web development. <br>
 I love to build new web pages. I am always eager to learn new things and take on new challenges.
 
-🌱 I’m currently learning javascript fameworks
-💬 Ask me about HTML,CSS,JAVASCRIPT
+🌱 I’m currently learning javascript fameworks<br>
+💬 Ask me about HTML,CSS,JAVASCRIPT<br>
 
-Skills
+Skills <br>
 HTML,CSS,JAVASCRIPT
 
 
