@@ -1,7 +1,7 @@
 Hi there, I'm Vijay Clement👋
 
 About Me
-I am a front-end web developer with a passion for web development. <br>
+I am a Front-End Developer with a passion for web development. <br>
 I love to build new web pages. I am always eager to learn new things and take on new challenges.
 
 🌱 I’m currently learning javascript fameworks
