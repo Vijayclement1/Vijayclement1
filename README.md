@@ -1,4 +1,5 @@
 Hi there, I'm Vijay Clement👋
+<hr>
 
 About Me
 I am a Front-End Developer with a passion for web development. <br>
