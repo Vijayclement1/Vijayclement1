@@ -1,5 +1,7 @@
 # Hi there, I'm Vijay Clement 👋
 
+![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ## About Me
 I am a **Front-End Developer** with a passion for web development.  
 I love to build new web pages. I am always eager to learn new things and take on new challenges.
