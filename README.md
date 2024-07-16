@@ -2,12 +2,14 @@
 
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
+<div style="background-color: black; color: white; padding: 20px;">
 ## About Me
 I am a **Front-End Developer** with a passion for web development.  
 I love to build new web pages. I am always eager to learn new things and take on new challenges.
 
 🌱 I’m currently learning **JavaScript frameworks**  
 💬 Ask me about **HTML, CSS, JavaScript**
+</div>
 
 ## Skills
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
